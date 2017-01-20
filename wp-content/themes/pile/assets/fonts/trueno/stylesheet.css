@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Trueno';
+    src: url('/wp-content/themes/pile/assets/fonts/trueno/truenolt-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/pile/assets/fonts/trueno/truenolt-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trueno';
+    src: url('/wp-content/themes/pile/assets/fonts/trueno/truenorg-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/pile/assets/fonts/trueno/truenorg-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trueno';
+    src: url('/wp-content/themes/pile/assets/fonts/trueno/truenobd-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/pile/assets/fonts/trueno/truenobd-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+
